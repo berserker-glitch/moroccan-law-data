@@ -1,7 +1,7 @@
 # Moroccan Justice Portal PDF Downloader
 
 This script downloads **all PDF files** from the Moroccan Ministry of Justice portal
-👉 [https://adala.justice.gov.ma](https://adala.justice.gov.ma)
+All of the data aquired from tis was used to make https://9anonai.com
 
 It mirrors the **exact folder/category structure** from the website and saves everything locally.
 
@@ -98,4 +98,5 @@ You are responsible for how you use the downloaded material and for complying wi
 
 Built for scraping and archiving Moroccan legal documents efficiently.
 No fluff. Just works.
+
 
